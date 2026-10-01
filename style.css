@@ -19,7 +19,7 @@ box-sizing:border-box;
 
 body{
 
-font-family:'Segoe UI',sans-serif;
+font-family:'Avenir Next LT Pro',sans-serif;
 background:#eaf0ff;
 color:var(--text);
 
@@ -50,13 +50,13 @@ z-index:10;
 
 
 .logo img{
-    height:75px;
+    height:90px;
     width:auto;
     transition:.4s;
 }
 
 .logo img:hover{
-    transform:scale(1.08);
+    transform:scale(1.10);
 }
 
 .logo span{
